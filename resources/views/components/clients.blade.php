@@ -96,7 +96,7 @@
         </div>
         {{-- Логотипы клиентов --}}
         @php
-            $clientLogos = ['TechStore', 'FoodMarket', 'AutoParts24', 'MedPlus', 'EduPro', 'BuilderCo', 'FashionUA', 'TravelKit', 'SportZone', 'HomeStyle'];
+            $clientLogos = ['Арника-2', 'Башня №5', 'Blesk', 'Coffee-UCC', 'Dnipro Hotel', 'EChizh', 'ЕШКО', 'Euro Foods', 'Funway Holidays', 'Киев Холод','Funway Holidays','Nemo','Prime Media','UDAZ','ВЕЛЕТ','Лагерь "Вояж"','Wolf',];
         @endphp
         <div>
             <p class="text-center text-sm text-slate-400 font-medium mb-8 uppercase tracking-widest">
