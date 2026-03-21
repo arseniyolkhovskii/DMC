@@ -39,7 +39,7 @@
                     'icon'     => '<svg class="w-7 h-7" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 11 18-5v12L3 13v-2z"/><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"/></svg>',
                     'title'    => 'Таргетированная реклама',
                     'desc'     => 'Реклама в Facebook, Instagram и TikTok. Точное попадание в вашу целевую аудиторию.',
-                    'features' => ['Facebook & Instagram', 'TikTok Ads', 'Лидогенерация', 'Видео-реклама'],
+                    'features' => ['Facebook & Instagram', 'TikTok Ads', 'Viber реклама', 'Видео-реклама'],
                     'gradient' => 'from-violet-500 to-purple-700',
                     'bgGrad'   => 'from-violet-50 to-purple-100/50',
                     'iconBg'   => 'bg-violet-100 text-violet-600',
